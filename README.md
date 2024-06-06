@@ -4,7 +4,6 @@
 - 🌱 I’m currently finished learning computer programming
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 Email: R.96769@Gmail.Com
-- 😄 Pronouns: the reader, the musician
 - ⚡ Fun fact: When I reach a new book - you won't see me till the last page...
 
 <!---
