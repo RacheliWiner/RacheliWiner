@@ -15,19 +15,31 @@ Not afraid of any challenge, their my pation
 #
 
 ### 👩‍💻  Languages and tools I know and use
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"></code>
+
+#
+
+### 👩‍💻  Platforms and technologies I know and use
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/clion/clion-original.svg"></code>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RacheliWiner&theme=radical&layout=compact)
 
