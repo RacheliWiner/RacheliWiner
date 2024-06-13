@@ -2,15 +2,15 @@
 
 I'm a curious programmer, that always wants to learn more...
 
-🐞I like to find bugs and enjoy solving them
+🐞I like to find bugs, and enjoy solving them
 
-Not afraid of any challenge, their my pation
+🥇Not afraid of any challenge, they are my passion
 
 🎶 The music is a part of me, and I like playing the piano
 
 📧 Email: R.96769@Gmail.Com
 
-📚 Fun fact: When I reach a new book - you won't see me till the last page...
+📚 When I reach a new book - you won't see me till the last page...
 
 #
 
