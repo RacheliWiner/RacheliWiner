@@ -38,8 +38,8 @@ I'm a curious programmer, that always wants to learn more...
 
 ---
 
-![Racheliwiner's GitHub stats](https://github-readme-stats.vercel.app/api?username=RacheliWIner&show_icons=true&title_color=ff66b2&text_color=66b2ff&icon_color=ff66b2&border_color=66b2ff&bg_color=000000&hide_border=false&theme=default&cache_seconds=21600&locale=en&border_radius=4.0&include_all_commits=true&count_private=true)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RacheliWiner&theme=radical&layout=compact)
+
+![Racheliwiner's GitHub stats](https://github-readme-stats.vercel.app/api?username=RacheliWIner&show_icons=true&title_color=ff66b2&text_color=66b2ff&icon_color=ff66b2&border_color=66b2ff&bg_color=000000&hide_border=false&theme=default&cache_seconds=21600&locale=en&border_radius=4.0&include_all_commits=true&count_private=true)
 
 #### Nice to know: "Most Used Languages" is not the only things I know😉, it jsut shows which languages I have used the most here on GitHub...
