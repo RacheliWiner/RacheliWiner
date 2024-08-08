@@ -39,7 +39,7 @@ I'm a curious programmer, that always wants to learn more...
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RacheliWiner&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RacheliWiner&hide_progress=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RacheliWiner&theme=radical&layout=compact)
 
