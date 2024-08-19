@@ -1,6 +1,6 @@
 ## 👋 Hi there, I’m Rachel
 
-I'm a curious programmer, that always wants to learn more...
+I'm a bright, curious and driven programmer, that always wants to learn more...
 
 🐞I like to find bugs, and enjoy solving them
 
