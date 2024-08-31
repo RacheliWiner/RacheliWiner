@@ -1,4 +1,4 @@
-## 👋 Hi there, I’m Rachel
+<h1><b><p align="center">Hi there👋, I’m Rachel</p></b></h1>
 
 I'm a bright, curious and driven programmer, that always wants to learn more...
 
