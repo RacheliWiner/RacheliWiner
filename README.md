@@ -1,14 +1,6 @@
 <h1><b><p align="center">Hi there👋, I’m Rachel</p></b></h1>
 
-I'm a bright, curious and driven programmer, that always wants to learn more...
-
-🐞I like to find bugs, and enjoy solving them
-
-🥇Not afraid of any challenge, they are my passion
-
-🎶 The music is a part of me, and I like playing the piano
-
-📧 Get me here: R.96769@Gmail.Com
+I love turning ideas into reality, with great attention to details and a deep thirst for knowledge
 
 ---
 
