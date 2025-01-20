@@ -4,8 +4,6 @@ I love turning ideas into reality, with great attention to details and a deep th
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RacheliWiner&label=Profile%20views&color=0e75b6&style=flat" alt="rachel" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RacheliWiner" alt="rachel" /></a> </p>
-
 ---
 
 ### 👩‍💻  Languages, tools and technologies I know and use
