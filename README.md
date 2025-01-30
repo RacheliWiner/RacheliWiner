@@ -1,26 +1,25 @@
 <h1><b><p align="center">Hi there👋, I’m Rachel</p></b></h1>
 
-I love turning ideas into reality, with great attention to details and a deep thirst for knowledge
+I love writing code, with great attention to details and a deep thirst for knowledge
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RacheliWiner&label=Profile%20views&color=0e75b6&style=flat" alt="rachel" /> </p>
 
 ---
 
 ### 👩‍💻  Languages, tools and technologies I know and use
-<code><img height="40"  width="50" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg"></code>
-<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original-wordmark.svg"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"></code>
+<code><img height="40"  width="50" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" ></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></code>
-<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original-wordmark.svg"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"></code>
 
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg"></code>
@@ -30,6 +29,7 @@ I love turning ideas into reality, with great attention to details and a deep th
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 
 ---
 
